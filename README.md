@@ -1,5 +1,5 @@
 # reconkit by 3libs
-A kit with dependencies and relevant repo's to make you linuxbased machine a reconnaissance tool
+A kit with dependencies and relevant repo's to make your linux based machine a reconnaissance tool
 
 
 ## Web - DNS - HTTP/S - Chromium
